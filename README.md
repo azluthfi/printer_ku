@@ -1,15 +1,16 @@
 # printer_ku
 
-A new Flutter plugin project.
+Flutter Bluetooth Printer from sdk X-Printer Android
+Tested on Xprinter XP-D4601b
 
 ## Getting Started
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
+```yaml
+printer_ku:
+  git:
+    url: git:https://github.com/azluthfi/printer_ku.git
+    ref: main # branch name
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
 
