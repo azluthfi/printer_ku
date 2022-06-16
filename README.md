@@ -7,9 +7,9 @@ Tested on Xprinter XP-D4601b
 
 ```yaml
 dependencies:
-    printer_ku:
-      git:
-        url: https://github.com/azluthfi/printer_ku
+  printer_ku:
+    git:
+    url: https://github.com/azluthfi/printer_ku
 ```
 
 
