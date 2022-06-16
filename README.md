@@ -6,10 +6,10 @@ Tested on Xprinter XP-D4601b
 ## Getting Started
 
 ```yaml
-printer_ku:
-  git:
-    url: git:https://github.com/azluthfi/printer_ku.git
-    ref: main # branch name
+dependencies:
+    printer_ku:
+      git:
+        url: https://github.com/azluthfi/printer_ku
 ```
 
 

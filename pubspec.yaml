@@ -1,7 +1,7 @@
 name: printer_ku
 description: A new flutter plugin project connect printer - Xprinter.
 version: 0.0.1
-homepage:
+homepage: https://github.com/azluthfi/printer_ku
 
 environment:
   sdk: ">=2.17.1 <3.0.0"
