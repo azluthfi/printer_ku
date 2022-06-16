@@ -9,7 +9,7 @@ Tested on Xprinter XP-D4601b
 dependencies:
   printer_ku:
     git:
-    url: https://github.com/azluthfi/printer_ku
+      url: https://github.com/azluthfi/printer_ku
 ```
 
 
